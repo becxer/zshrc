@@ -14,7 +14,7 @@ alias h='history'
 alias vi='vim'
 alias vm='vim'
 alias emacs='emacs -nw'
-alias em='emacs'
+alias em='emacsclient -t'
 
 # simple http server
 alias serve="python -mSimpleHTTPServer"
