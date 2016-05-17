@@ -1,6 +1,4 @@
-#install git required to git prompt
-sudo apt-get update
-sudo apt-get install git
+#install require
 sudo apt-get install toilet
 sudo apt-get install jp2a
 
